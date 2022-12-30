@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "univ-pertahanan-poc",
+  "private_key_id": "59fedef57d83a9a0039f9c183c4507112761546e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCcGHZJrBnpyJ/Z\nDn8wWANw1Ae0JkdwbdWabuL8fFBJ5zfuW4cMVJ7/DUrDXx/7zEzYojwXcb9XjDFd\nZZ5micKgiTdwWx4HMHDSF8lJslGcv8bo9294Lj9lAZ1MZLMzysl7+dhdCExMi0YA\nlitkL3/DoW72CUYvlgVF1H4Jz0GsTnpAgrviYdHyWb46nCCq5iGEQQgq0ktGTWmw\nB9jL6cL01tfbAyQwXBblNlasTSzzQm/kGtpUn4USQoa5VhdJmKmxq1IxqmVGEkeE\nAUd1MECyGad6YJ+DnMYPBLlb472fhxP3iguVCdfPrdz9lHFbaqjiAe9fyHpMSvM5\nQcot79vrAgMBAAECggEARtymCmDqLKLqyhdWLyStfzGKQ8Ki6Mu7zg1r1zI6Iqqo\nTflYEAV0XpXyrEnJU75V3nyb6gq10fEvUdZ5d9QvOkDAna2HrrzTYtTwiJe+i/nV\nu1nkzTq1hc2bUpxea/Mxz6nHCsjjFladk1OY5DTZ+/4TyPbB2YVx5FcIVryzdBw/\n+mPHJQgb9V7a7WFfOLY+eh0MDJjTbYNZh5nR0lz3ParQksj6dpVfQdUy/kltcWUr\nho9WgNijhluDOriTQmP5XE+Or7Cxkd3J8hO1JH8lQ0NBVnxVgi9pLRcW5UShJoQq\nyXIv7WLr8F/pQ8ZDBSoVva6C3UBr+o2OnA34Yecv9QKBgQDb2XgTteWuodg1+YvP\n6l2femTS/qdcMpv/5uyYDbr2Zbt+DQqqNNhV/wEtuoS2wO04whp7l4R1Lf4SozTv\n03idKEvDzzI8j5S6jn9JFgRR28RZFm5OW0I12Sw0WqyMX+viOQj/BBCE6xoWLmVA\nu1r0blyDusv31/2aAssyZssDdQKBgQC1w0fkLf0Qr4hXGSp34GNGMdde2h2Ae7ho\njR3OCaAjWAy+DlZBiArQFI+hWmlV9gJhJasOCe5EgSwPA8PAVMjda2z2Uma7guGW\n48+jxaeBfIJzDXXMvtYNtWKi9E3dwJzFSVFzEWzAdzj6xVyokMUiRSLXQpKwKYYD\nQqaniupV3wKBgQDPaSKczd3r3CrD+TNLK1u6alkWqkMwe1qrmawaY9HARggWCq3G\nGGcE8rik8LPmSqtDAfTEJxVDC+oIoUr++65t7idUi3RkqDzzqB4z0H6wz7o1JjFY\n4UXc0Y+fsO/a22AKJC71kFsZW0hYJttFr7xGoJvNd3yYzYAnPX2AhnP/RQKBgFJm\nGts4dfbwfHBvui7qDFcwFSCs5J7wd2L+Rjq3Zl9fdTdbrIK8t5opGAvfvsz3X5DG\n0MrmeZuYq26LGFzCkuS95IGuTWBILxiGYgUuf4dV+JVLztFo2gUQ64xQEFStEuTl\nHgV6KsD9y1jzy9Om/ZdRnD/VsEYoLNahiod9lEolAoGBAJMhcE7j7i7+vC1LnFOq\njrnQrFm+pHbP4t+EH9zzNYjBzB6AgwIvcx80rbLQBGllixRSfQlg/3ZupFncz3ia\n3nufRpRqaC+pa8w28kkdxMs/lQ3L1q7CgtCQnPX0+lP+J1rgkSH+pJQUvJfUVp6f\nkRaZfSSHO1Qo08wGq0d33VSJ\n-----END PRIVATE KEY-----\n",
+  "client_email": "document-ai-service-account@univ-pertahanan-poc.iam.gserviceaccount.com",
+  "client_id": "115594216502673152803",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/document-ai-service-account%40univ-pertahanan-poc.iam.gserviceaccount.com"
+}
